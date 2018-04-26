@@ -1,0 +1,40 @@
+{
+  "api" : {
+    "filmes" : [ {
+      "ano" : "2016",
+      "diretor" : "Makoto_Shinkai",
+      "nome" : "Your_Name"
+    }, {
+      "ano" : "2009",
+      "diretor" : "Zack_Snyder",
+      "nome" : "Watchmen"
+    }, {
+      "ano" : "2017",
+      "diretor" : "Adam_Wingard",
+      "nome" : "Death_Note"
+    } ],
+    "hq" : [ {
+      "ano" : "2012",
+      "autor" : "Geoff_Johns",
+      "nome" : "Flashpoint"
+    }, {
+      "ano" : "2008",
+      "autor" : "Greg_Pak",
+      "nome" : "Planet_Hulk"
+    } ],
+    "livros" : [ {
+      "ano" : "2011",
+      "autor" : "Mark_Lawrence",
+      "nome" : "Prince_of_Thorns"
+    }, {
+      "ano" : "1996",
+      "diretor" : "George_R._R._Martin",
+      "nome" : "A_Game_of_Thrones"
+    } ],
+    "series" : [ {
+      "ano" : "2016",
+      "diretor" : "Athena_Wickham",
+      "nome" : "Westworld"
+    } ]
+  }
+}
